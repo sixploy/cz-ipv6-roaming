@@ -123,6 +123,16 @@ Tento seznam není úplný - zahrnuje pouze kombinace sítí a operátorů, ve k
 
 ## Jak přispívat
 
+
+Pokud nevíte, jak poslat pull request, [založte issue](https://github.com/sixploy/cz-ipv6-roaming/issues/new) a popište v něm:
+
+- se SIM kartou kterého operátora jste cestovali
+- v jaké zemi jste IPv6 otestovali
+- u jakých operátorů
+- s jakým výsledkem
+
+Pokud víte, jak poslat pull request, postupujte například takto:
+
 1. Forkněte repozitář
 2. Proveďte změny ve svém forku
    1. přidejte zemi a tabulku s naším operátorem, roamujícím operátorem (ideálně včetně MCC MNC kódu v závorce) a stavem IPv6
