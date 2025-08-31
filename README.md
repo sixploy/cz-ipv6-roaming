@@ -125,10 +125,10 @@ Tento seznam není úplný - zahrnuje pouze kombinace sítí a operátorů, ve k
 
 1. Forkněte repozitář
 2. Proveďte změny ve svém forku
-  1. přidejte zemi a tabulku s naším operátorem, roamujícím operátorem (ideálně včetně MCC MNC kódu v závorce) a stavem IPv6
-  2. doplňte stav IPv6, který jste pozorovali (zkuste například navštívit [test-ipv6.cz](https://test-ipv6.cz) a měření `speedtest.net` vůči serveru českého O2, který používá po IPv6)
-  3. Seznam roamingových partnerů T-Mobile je k dispozici [zde](https://www.t-mobile.cz/roaming), nejprve vyberte zemi a pak klikněte na tlačítko `Zobrazit` v sekci `Roamingoví partneři`
-  4. Seznam roamingových partnerů Vodafone najdete [tady](https://www.vodafone.cz/roaming/), stačí vyhledat konkrétní zemi 
+   1. přidejte zemi a tabulku s naším operátorem, roamujícím operátorem (ideálně včetně MCC MNC kódu v závorce) a stavem IPv6
+   2. doplňte stav IPv6, který jste pozorovali (zkuste například navštívit [test-ipv6.cz](https://test-ipv6.cz) a měření `speedtest.net` vůči serveru českého O2, který používá po IPv6)
+   3. Seznam roamingových partnerů T-Mobile je k dispozici [zde](https://www.t-mobile.cz/roaming), nejprve vyberte zemi a pak klikněte na tlačítko `Zobrazit` v sekci `Roamingoví partneři`
+   4. Seznam roamingových partnerů Vodafone najdete [tady](https://www.vodafone.cz/roaming/), stačí vyhledat konkrétní zemi 
 3. Pošlete pull request
 
 [Seznam MCC kódů](https://en.wikipedia.org/wiki/Mobile_country_code) je na Wikipedii, stejně tak seznam MNC kódů (pro [Evropu](https://en.wikipedia.org/wiki/Mobile_network_codes_in_ITU_region_2xx_(Europe))).
