@@ -108,6 +108,14 @@ Tento seznam není úplný - zahrnuje pouze kombinace sítí a operátorů, ve k
 |-------------|---------------------------|------------|
 | T-Mobile CZ | Telemach (293 70)         | ✅ Funkční |
 
+### Španělsko (MCC 214)
+
+| Operátor    | Síť                 | Stav IPv6             |
+|-------------|---------------------|-----------------------|
+| T-Mobile CZ | Vodafone (214 01)   | ⛔️ Nelze se přihlásit |
+| T-Mobile CZ | Orange (214 03)     | ✅ Funkční            |
+| T-Mobile CZ | Movistar (214 07)   | ✅ Funkční            |
+
 ### Švédsko (MCC 240)
 
 | Operátor    | Síť              | Stav IPv6  |
@@ -141,12 +149,17 @@ Pokud víte, jak poslat pull request, postupujte například takto:
    4. Seznam roamingových partnerů Vodafone najdete [tady](https://www.vodafone.cz/roaming/), stačí vyhledat konkrétní zemi 
 3. Pošlete pull request
 
-[Seznam MCC kódů](https://en.wikipedia.org/wiki/Mobile_country_code) je na Wikipedii, stejně tak seznam MNC kódů (pro [Evropu](https://en.wikipedia.org/wiki/Mobile_network_codes_in_ITU_region_2xx_(Europe))).
+Užitečné zdroje:
+
+- [Seznam MCC kódů](https://en.wikipedia.org/wiki/Mobile_country_code)
+- Seznam MNC kódů [pro Evropu](https://en.wikipedia.org/wiki/Mobile_network_codes_in_ITU_region_2xx_(Europe))
+- Seznam operátorů [v Evropě](https://en.wikipedia.org/wiki/List_of_mobile_network_operators_in_Europe)
 
 ## Seznam přispěvatelů
 
 - [Radek Zajíc](https://github.com/zajdee)
 - Radim Friedel
+- [Jakub Dušek](https://gist.github.com/tcpj)
 
 ## Licence
 
